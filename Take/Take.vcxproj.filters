@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\MultimapKeyedTree">
+      <UniqueIdentifier>{3e3ded8f-6da2-4940-9937-daa77e5d5e79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\MultimapKeyedTree">
+      <UniqueIdentifier>{14e8523e-2b12-43e6-b2ab-009f0cd5ad4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\LXML">
+      <UniqueIdentifier>{9537c260-2b97-4b7f-8c5d-15e591b3f8de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\LXML">
+      <UniqueIdentifier>{44bfc71e-616b-4d81-9ca7-6cfad1b6acdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\LXMLObjectMapper">
+      <UniqueIdentifier>{71798574-ff69-4dd8-bd80-788b77963ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\LXMLObjectMapper">
+      <UniqueIdentifier>{531b735c-f65e-4393-b747-c74f756e5747}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Playground.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Session.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerPool.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerRandom.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHuman.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAI.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Mug.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Mugmap.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Confi.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIPlaygroundBase.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Start.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIStart.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MultimapKeyedTree\MultimapKeyedTree.cpp">
+      <Filter>Quelldateien\MultimapKeyedTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MultimapKeyedTree\MultimapKeyedTreeConnector.cpp">
+      <Filter>Quelldateien\MultimapKeyedTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MultimapKeyedTree\MultimapKeyedTreeElement.cpp">
+      <Filter>Quelldateien\MultimapKeyedTree</Filter>
+    </ClCompile>
+    <ClCompile Include="LXML\LXMLTagAnalyser.cpp">
+      <Filter>Quelldateien\LXML</Filter>
+    </ClCompile>
+    <ClCompile Include="LXML\LXMLRegMatcher.cpp">
+      <Filter>Quelldateien\LXML</Filter>
+    </ClCompile>
+    <ClCompile Include="LXML\LXMLElement.cpp">
+      <Filter>Quelldateien\LXML</Filter>
+    </ClCompile>
+    <ClCompile Include="LXML\LXMLConnector.cpp">
+      <Filter>Quelldateien\LXML</Filter>
+    </ClCompile>
+    <ClCompile Include="LXML\LXML.cpp">
+      <Filter>Quelldateien\LXML</Filter>
+    </ClCompile>
+    <ClCompile Include="LXML\FileIO.cpp">
+      <Filter>Quelldateien\LXML</Filter>
+    </ClCompile>
+    <ClCompile Include="LXMLObjectMapper\LXMLObject.cpp">
+      <Filter>Quelldateien\LXMLObjectMapper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global_const.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="global_func.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Playground.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="global_typedef.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Session.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerPool.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="template_Cycle.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerRandom.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="globals_globals.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="global_macros.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerHuman.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="global_classes.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller_structs.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAI.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Mug.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Mugmap.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Confi.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="global_exception.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="global_flags.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIPlaygroundBase.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Start.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIStart.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MultimapKeyedTree\MultimapKeyedTree.h">
+      <Filter>Headerdateien\MultimapKeyedTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MultimapKeyedTree\MultimapKeyedTreeConnector.h">
+      <Filter>Headerdateien\MultimapKeyedTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MultimapKeyedTree\MultimapKeyedTreeElement.h">
+      <Filter>Headerdateien\MultimapKeyedTree</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\FileIO.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXML.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLConnector.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLConsts.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLElement.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLFunctions.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLRegMatcher.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLRegMatcher_TestOutlet.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLTagAnalyser.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLTagAnalyser_TestOutlet.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXML\LXMLTypes.h">
+      <Filter>Headerdateien\LXML</Filter>
+    </ClInclude>
+    <ClInclude Include="LXMLObjectMapper\LXMLObject.h">
+      <Filter>Headerdateien\LXMLObjectMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LXMLObjectMapper\LXMLObject_Consts.h">
+      <Filter>Headerdateien\LXMLObjectMapper</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Notes.txt" />
+  </ItemGroup>
+</Project>
