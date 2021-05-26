@@ -1,7 +1,7 @@
 # Nim Spiel Konsole
 Eine Implementierung des Nim-Spiels für Konsole. Die Implementierung orientiert sich an der schönen Erklärung auf der Website 'https://www.i-am.ai/de/build-your-own-ai.html'.
 
-Bei dem Spiel geht es darum, daß zwei Mitspieler von 10 Elmenenten 1-3 Elemente entfernen. Der Spieler, welcher das letzte Element nehmen muß halt verloren.
+Bei dem Spiel geht es darum, daß zwei Mitspieler von 10 Elmenenten 1-3 Elemente entfernen. Der Spieler, welcher das letzte Element nehmen muß hat verloren.
 
 ## Screnshot
 ![Konsole](/screenshotsklein/Nim.jpg)
